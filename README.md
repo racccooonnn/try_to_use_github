@@ -1,5 +1,5 @@
 ### text ###
-##text ##
-#text #
-*text* *
-_text_ _
+## text ## ##
+# text # #
+* text * 
+__text__ _
